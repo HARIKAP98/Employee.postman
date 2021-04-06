@@ -30,7 +30,8 @@ import io.github.bucket4j.Refill;
 public class EmployeeController {
 	
 
-
+	private String myName = "Harika";
+	
 	
 	private final Bucket bucket;
 	
